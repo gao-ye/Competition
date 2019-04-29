@@ -6,6 +6,6 @@
 
 详细文档参阅【NPU-ASGO_点石比赛作品说明文档.doc】
 
-
+![avatar](https://github.com/gao-ye/Competition/blob/master/baidu_gaofen-cup/pictures/Image%20055.png)
 
 参赛队伍530+支，排名赛第一，决赛第三。
